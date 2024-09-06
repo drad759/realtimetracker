@@ -6,9 +6,11 @@
     "start": "nodemon index"
   },
   "author": "",
+
   "license": "ISC",
   "description": "",
   "dependencies": {
+   "serverless-http":"^2.7.0",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "nodemon": "^3.1.4",
